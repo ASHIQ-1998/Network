@@ -1,3 +1,0 @@
-abd
-ABC
-abc
